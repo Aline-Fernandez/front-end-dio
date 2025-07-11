@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo-bootcamp.webp" alt="Logo do Bootcamp" width="100">
+</p>
+
 # Santander Bootcamp 2025 - Front-End
 
 ## Sobre o Bootcamp
