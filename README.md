@@ -34,8 +34,8 @@ Este repositório é para acompanhar meu aprendizado, registrar meus projetos de
 ## Estrutura do Repositório
 
 - [exercicios](./exercicios) — Meus exercícios diários e atividades do bootcamp  
-- [projetos](./projetos) — Projetos práticos que estou desenvolvendo  
-- [assets](./assets) — Imagens, estilos e recursos que utilizo  
+- [projetos](./projetos) — Projetos práticos que estou desenvolvendo
+- [assets](./assets) — Imagens, estilos e recursos que utilizo
 
 
 ## Como usar este repositório
